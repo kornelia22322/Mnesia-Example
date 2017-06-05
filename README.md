@@ -1,2 +1,2 @@
 # Mnesia-example
-Mnesia DBMS examplefor Erlang-classroom
+Mnesia DBMS example for Erlang-classroom
